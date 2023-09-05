@@ -8,7 +8,7 @@
 - 😄 Pronouns: OSAMA aka Ouuss
 - ⚡ Fun fact: I trust no people only code 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=heithemmoumni&theme=gruvbox&title=MultiLanguage,Commit,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=oussemaAr&theme=gruvbox&title=MultiLanguage,Commit,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/oussemaAr">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=oussemaAr&show_icons=true&theme=light&line_height=27" alt="GitHub Stats"/>
